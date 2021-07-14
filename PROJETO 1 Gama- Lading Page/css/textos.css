@@ -1,0 +1,198 @@
+.textoTopo{
+    color: white(255, 255, 255);
+    font-size:30px ;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: black;
+    margin-top: 100px;
+    margin-left: 20px;
+   
+   
+   
+   
+   
+       
+   }
+
+   .textoPromocion{
+       font-size: 35px;
+       
+
+       
+   }
+   
+   
+   
+   
+   h1 {
+    
+    
+    font-family: 'Bebas Neue', cursive;
+     color:#FAFAFA;
+    font-size: 80px;
+    margin-left: 10px;
+    font-
+   
+   
+    
+    
+   
+   
+   
+   
+   }
+   
+   h2{
+      font-family: 'Bebas Neue', cursive;
+       color:#FAFAFA;
+       margin-left: 20px;
+       font-size :40px;
+   
+      
+   }  
+   
+   
+   h3,h4{
+       font-family: 'Bebas Neue', cursive;
+        color:rgb(34, 30, 12);
+        margin-left: 20px;
+    
+    }
+
+
+        .formularioNome{
+            margin-top: 15px;
+            color:brown
+
+
+
+
+
+
+
+        }
+
+        form div + div {
+            margin-top: 22px;
+    
+            }
+
+
+            form{
+
+                margin-top: 300px;
+                font-family: 'Bebas Neue', cursive;
+                font-size: 20px;
+              
+                    /*Alinhamento da box  */
+                    display: inline-block;
+                    width: 30px;
+                    text-align: right;
+                    width: 300px;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box;
+                    vertical-align: top;
+                    border-color: rgb(255, 234, 1);
+                    cursor: text;
+                    box-sizing: border-box;
+                    border-radius: 15px;
+                    min-height: 80px;
+                    padding: .3rem 0;
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            }
+
+
+            .butao{
+                padding-left: 110px;
+                border-style: none ;
+                
+                
+                font-family: 'Bebas Neue', cursive;
+                background-size: cover;
+                line-height: 25px;
+                cursor: pointer;
+               
+                margin-left: -1px;
+                height: 100%;
+                
+            
+                width:150px;
+                height:101px;
+                max-height: 50px;
+                max-width: 50px;
+                
+
+               
+
+
+            }
+
+            .rodape{
+
+                font-family: 'Bebas Neue', cursive;
+                font-size: 20px;
+             
+                margin-left: 5px;
+                height: 56px;
+                width: 100%;
+                background-color: rgba(102, 102, 102, 0.818);
+                border-left: none;
+                border-right: none;
+                
+                -webkit-justify-content: center;
+                -ms-flex-pack: center;
+                justify-content: center;
+            
+                display: flex;
+                position: absolute;
+                width: 100%;
+                left: 0;
+                font-size: 25px;
+
+
+
+            }
+
+
+            .ropaEndereco{
+                font-family: 'Bebas Neue', cursive;
+                font-size: 20px;
+             
+                margin-left: 5px;
+                height: 56px;
+                width: 100%;
+                background-color: #666;
+                border-left: none;
+                border-right: none;
+                -webkit-box-pack: center;
+                -webkit-justify-content: center;
+                -ms-flex-pack: center;
+                justify-content: center;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                position: absolute;
+                width: 100%;
+                left: 0;
+
+
+
+                
+            }
+
+
+            .retangulo{
+
+                height: 30px;
+                width:200px;
+                margin-left:5px;
+                font-size:20px;
+                color:rgb(0, 0, 0);
+                border-color: rgba(1, 18, 1, 0.133) ;
+            }

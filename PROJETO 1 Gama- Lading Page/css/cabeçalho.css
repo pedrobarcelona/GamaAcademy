@@ -1,0 +1,17 @@
+.box1{
+    left: 0;
+        width: 100%;
+        position: absolute;
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        height: 360px;
+        background-size: cover;
+        background-image: url(../Fotos/fundo\ com\ logo.png);
+       
+        
+        
+       
+    }
+    
+
+    
